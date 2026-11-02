@@ -17,7 +17,7 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 | Built, not deployed | Removed completely: Mega Luck Charm, Warlord (ex Necromancer) items, Radiant (ex Necrotic) reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester (ex Reaper) items | [#1](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1) |
 | Built, not deployed | Remove Cloth Scrap, Sweeper's Broomstick, Bat Fang, Warlord slayer title, and everything Sadan | [#25](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/25) |
 | Built, not deployed | Mob renames: Zealot → Ender Sentinel, Voidling Fanatic/Extremist → Brute/Warden, Voidgloom Seraph → Colossus, Ghoul → Crypt Zombie | [#2](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2) |
-| Waiting on Cole | Revenant line name: Rotting Brute / Iron Brute / Bulwark Zombie, or keep | [#26](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26) |
+| In progress | Revenant line → Iron Brute | [#26](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26) |
 | Waiting on Cole | Borderline dark-content list review | [#3](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/3) |
 
 ## Part 2: Less grind
