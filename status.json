@@ -36,20 +36,20 @@
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Remove Cloth Scrap, Sweeper's Broomstick, Bat Fang, Warlord slayer title, and everything Sadan",
           "issue": 25,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/25"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Mob renames: Zealot → Ender Sentinel, Voidling Fanatic/Extremist → Brute/Warden, Voidgloom Seraph → Colossus, Ghoul → Crypt Zombie",
           "issue": 2,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2"
         },
         {
           "status": "Waiting on Cole",
-          "text": "Revenant line: pick a new name (or keep)",
+          "text": "Revenant line name: Rotting Brute / Iron Brute / Bulwark Zombie, or keep",
           "issue": 26,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26"
         },
@@ -69,50 +69,50 @@
           "text": "64 per enchanted recipe everywhere (219 recipes + compactor verified)"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Bug: Enchanted Lava Bucket recipe outputs Enchanted Iron",
           "issue": 4,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/4"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Bug: Enchanted Charcoal made from Coal",
           "issue": 5,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/5"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Bug: Enchanted Fermented Spider Eye / Eye of Ender single-ingredient recipes",
           "issue": 6,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/6"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Bug: Super Compactor Enchanted Bone Block typo",
           "issue": 7,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/7"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Bug: compactor uses 64 blocks (576 diamonds) per enchanted item",
           "issue": 8,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/8"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Bug: 48 enchanted items have no crafting recipe",
           "issue": 9,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/9"
         },
         {
-          "status": "In progress",
+          "status": "Built, not deployed",
           "text": "Bug: pet XP table skips levels 28/53/78",
           "issue": 11,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/11"
         },
         {
-          "status": "To do",
-          "text": "Enchanted Ender Pearl uses 64 (Hypixel 20) and sells at a loss",
+          "status": "Built, not deployed",
+          "text": "Enchanted Ender Pearl now 16 (recipe + compactor)",
           "issue": 10,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/10"
         },
@@ -165,7 +165,7 @@
         },
         {
           "status": "Brainstorming",
-          "text": "Fairy Souls redesign",
+          "text": "Fairy Souls redesign (174 souls now, 5 per Tia exchange)",
           "issue": 28,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/28"
         }
