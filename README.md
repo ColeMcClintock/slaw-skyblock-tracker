@@ -6,19 +6,18 @@ Status of completing **Slaw Skyblock**, Cole's Hypixel Skyblock-style server plu
 
 Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstorming / To do
 
-## Part 1: Dark-content cleanup
+## Part 1: Names & item updates
 
 | Status | Item | Issue |
 |---|---|---|
-| Done | Demonic reforge removed (already gone) |  |
 | Built, not deployed | Summoning Eye → Ender Catalyst, internal ID renamed with legacy ID alias |  |
-| Built, not deployed | RNGesus / "God" references removed (RNGesus Meter → RNG Meter) |  |
-| Built, not deployed | Necron armor/blade/heads → Titan's |  |
-| Built, not deployed | Removed completely: Mega Luck Charm, Warlord (ex Necromancer) items, Radiant (ex Necrotic) reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester (ex Reaper) items | [#1](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1) |
+| Built, not deployed | RNG Meter rename |  |
+| Built, not deployed | Titan's armor, blade and heads rename |  |
+| Built, not deployed | Item removals: Mega Luck Charm, Warlord items, Radiant reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester items | [#1](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1) |
 | Built, not deployed | Remove Cloth Scrap, Sweeper's Broomstick, Bat Fang, Warlord slayer title, and everything Sadan | [#25](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/25) |
-| Built, not deployed | Mob renames: Zealot → Ender Sentinel, Voidling Fanatic/Extremist → Brute/Warden, Voidgloom Seraph → Colossus, Ghoul → Crypt Zombie | [#2](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2) |
-| Built, not deployed | Revenant line → Iron Brute | [#26](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26) |
-| Waiting on Cole | Borderline dark-content list review | [#3](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/3) |
+| Built, not deployed | Mob renames: Ender Sentinel, Voidling Brute/Warden, Voidgloom Colossus, Crypt Zombie | [#2](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2) |
+| Built, not deployed | Zombie slayer line renamed Iron Brute | [#26](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26) |
+| Built, not deployed | Tier-5 zombie slayer boss renamed Iron Brute Overlord |  |
 
 ## Part 2: Less grind
 
@@ -45,6 +44,8 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 | Status | Item | Issue |
 |---|---|---|
 | Built, not deployed | Economy: Hypixel base-item prices, weekly snapshot, buy/sell spread; checker PASS, zero profit loops | [#27](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27) |
+| Built, not deployed | Dandelion and Poppy priced at 5 coins |  |
+| Built, not deployed | Hypixel price sync verified working without an API key |  |
 | Brainstorming | Fairy Souls redesign (174 souls now, 5 per Tia exchange) | [#28](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/28) |
 
 ## Part 4: Wiki

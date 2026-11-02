@@ -11,27 +11,23 @@
   ],
   "areas": [
     {
-      "name": "Part 1: Dark-content cleanup",
+      "name": "Part 1: Names & item updates",
       "items": [
-        {
-          "status": "Done",
-          "text": "Demonic reforge removed (already gone)"
-        },
         {
           "status": "Built, not deployed",
           "text": "Summoning Eye → Ender Catalyst, internal ID renamed with legacy ID alias"
         },
         {
           "status": "Built, not deployed",
-          "text": "RNGesus / \"God\" references removed (RNGesus Meter → RNG Meter)"
+          "text": "RNG Meter rename"
         },
         {
           "status": "Built, not deployed",
-          "text": "Necron armor/blade/heads → Titan's"
+          "text": "Titan's armor, blade and heads rename"
         },
         {
           "status": "Built, not deployed",
-          "text": "Removed completely: Mega Luck Charm, Warlord (ex Necromancer) items, Radiant (ex Necrotic) reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester (ex Reaper) items",
+          "text": "Item removals: Mega Luck Charm, Warlord items, Radiant reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester items",
           "issue": 1,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1"
         },
@@ -43,21 +39,19 @@
         },
         {
           "status": "Built, not deployed",
-          "text": "Mob renames: Zealot → Ender Sentinel, Voidling Fanatic/Extremist → Brute/Warden, Voidgloom Seraph → Colossus, Ghoul → Crypt Zombie",
+          "text": "Mob renames: Ender Sentinel, Voidling Brute/Warden, Voidgloom Colossus, Crypt Zombie",
           "issue": 2,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2"
         },
         {
           "status": "Built, not deployed",
-          "text": "Revenant line → Iron Brute",
+          "text": "Zombie slayer line renamed Iron Brute",
           "issue": 26,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26"
         },
         {
-          "status": "Waiting on Cole",
-          "text": "Borderline dark-content list review",
-          "issue": 3,
-          "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/3"
+          "status": "Built, not deployed",
+          "text": "Tier-5 zombie slayer boss renamed Iron Brute Overlord"
         }
       ]
     },
@@ -162,6 +156,14 @@
           "text": "Economy: Hypixel base-item prices, weekly snapshot, buy/sell spread; checker PASS, zero profit loops",
           "issue": 27,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27"
+        },
+        {
+          "status": "Built, not deployed",
+          "text": "Dandelion and Poppy priced at 5 coins"
+        },
+        {
+          "status": "Built, not deployed",
+          "text": "Hypixel price sync verified working without an API key"
         },
         {
           "status": "Brainstorming",
