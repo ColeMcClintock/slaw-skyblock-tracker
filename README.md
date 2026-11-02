@@ -67,4 +67,4 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 
 | Status | Item | Issue |
 |---|---|---|
-| Waiting on Cole | Rotate the LuckPerms database password (stored in plain text in a config) | [#24](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/24) |
+| Waiting on Cole | Security housekeeping (private notes) | [#24](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/24) |

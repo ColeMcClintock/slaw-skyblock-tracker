@@ -222,7 +222,7 @@
       "items": [
         {
           "status": "Waiting on Cole",
-          "text": "Rotate the LuckPerms database password (stored in plain text in a config)",
+          "text": "Security housekeeping (private notes)",
           "issue": 24,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/24"
         }
