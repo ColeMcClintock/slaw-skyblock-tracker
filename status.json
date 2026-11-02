@@ -52,6 +52,14 @@
         {
           "status": "Built, not deployed",
           "text": "Tier-5 zombie slayer boss renamed Iron Brute Overlord"
+        },
+        {
+          "status": "Built, not deployed",
+          "text": "Tier-5 minibosses renamed Iron Brute Enforcer and Iron Brute Champion"
+        },
+        {
+          "status": "Built, not deployed",
+          "text": "Slayer drop renamed Brute Trophy (existing items carry over)"
         }
       ]
     },

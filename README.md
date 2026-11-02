@@ -18,6 +18,8 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 | Built, not deployed | Mob renames: Ender Sentinel, Voidling Brute/Warden, Voidgloom Colossus, Crypt Zombie | [#2](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2) |
 | Built, not deployed | Zombie slayer line renamed Iron Brute | [#26](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26) |
 | Built, not deployed | Tier-5 zombie slayer boss renamed Iron Brute Overlord |  |
+| Built, not deployed | Tier-5 minibosses renamed Iron Brute Enforcer and Iron Brute Champion |  |
+| Built, not deployed | Slayer drop renamed Brute Trophy (existing items carry over) |  |
 
 ## Part 2: Less grind
 
