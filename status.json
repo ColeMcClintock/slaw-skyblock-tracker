@@ -158,8 +158,8 @@
       "name": "Part 3: Economy & systems design",
       "items": [
         {
-          "status": "Brainstorming",
-          "text": "Economy: coin/inflation design (no money glitches, no inflation)",
+          "status": "In progress",
+          "text": "Economy (approved): Hypixel base-item prices, weekly snapshot, buy/sell spread, no-arbitrage checker",
           "issue": 27,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27"
         },

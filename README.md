@@ -44,7 +44,7 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 
 | Status | Item | Issue |
 |---|---|---|
-| Brainstorming | Economy: coin/inflation design (no money glitches, no inflation) | [#27](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27) |
+| In progress | Economy (approved): Hypixel base-item prices, weekly snapshot, buy/sell spread, no-arbitrage checker | [#27](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27) |
 | Brainstorming | Fairy Souls redesign | [#28](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/28) |
 
 ## Part 4: Wiki
