@@ -14,51 +14,51 @@
       "name": "Part 1: Names & item updates",
       "items": [
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Summoning Eye → Ender Catalyst, internal ID renamed with legacy ID alias"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "RNG Meter rename"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Titan's armor, blade and heads rename"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Item removals: Mega Luck Charm, Warlord items, Radiant reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester items",
           "issue": 1,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Remove Cloth Scrap, Sweeper's Broomstick, Bat Fang, Warlord slayer title, and everything Sadan",
           "issue": 25,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/25"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Mob renames: Ender Sentinel, Voidling Brute/Warden, Voidgloom Colossus, Crypt Zombie",
           "issue": 2,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Zombie slayer line renamed Iron Brute",
           "issue": 26,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Tier-5 zombie slayer boss renamed Iron Brute Overlord"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Tier-5 minibosses renamed Iron Brute Enforcer and Iron Brute Champion"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Slayer drop renamed Brute Trophy (existing items carry over)"
         }
       ]
@@ -71,55 +71,55 @@
           "text": "64 per enchanted recipe everywhere (219 recipes + compactor verified)"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Bug: Enchanted Lava Bucket recipe outputs Enchanted Iron",
           "issue": 4,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/4"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Bug: Enchanted Charcoal made from Coal",
           "issue": 5,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/5"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Bug: Enchanted Fermented Spider Eye / Eye of Ender single-ingredient recipes",
           "issue": 6,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/6"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Bug: Super Compactor Enchanted Bone Block typo",
           "issue": 7,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/7"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Bug: compactor uses 64 blocks (576 diamonds) per enchanted item",
           "issue": 8,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/8"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Bug: 48 enchanted items have no crafting recipe",
           "issue": 9,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/9"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Bug: pet XP table skips levels 28/53/78",
           "issue": 11,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/11"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Enchanted Ender Pearl now 16 (recipe + compactor)",
           "issue": 10,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/10"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Rescale enchanted NPC sell prices (input-based, never above bazaar sell)",
           "issue": 12,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/12"
@@ -160,18 +160,18 @@
       "name": "Part 3: Economy & systems design",
       "items": [
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Economy: Hypixel base-item prices, weekly snapshot, buy/sell spread; checker PASS, zero profit loops",
           "issue": 27,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27"
         },
         {
-          "status": "Built, not deployed",
+          "status": "Done",
           "text": "Dandelion and Poppy priced at 5 coins"
         },
         {
-          "status": "Built, not deployed",
-          "text": "Hypixel price sync verified working without an API key"
+          "status": "Done",
+          "text": "Hypixel price sync working without an API key (live snapshot fetched on deploy)"
         },
         {
           "status": "Brainstorming",
@@ -220,8 +220,8 @@
       "name": "Part 5: Deployment",
       "items": [
         {
-          "status": "To do",
-          "text": "Back up live jar, Cole's OK + restart window, deploy to hub + island",
+          "status": "Done",
+          "text": "Deployed to hub + island (Nov 1, economy3 build; live jars backed up first)",
           "issue": 23,
           "url": "https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/23"
         }

@@ -10,31 +10,31 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 
 | Status | Item | Issue |
 |---|---|---|
-| Built, not deployed | Summoning Eye → Ender Catalyst, internal ID renamed with legacy ID alias |  |
-| Built, not deployed | RNG Meter rename |  |
-| Built, not deployed | Titan's armor, blade and heads rename |  |
-| Built, not deployed | Item removals: Mega Luck Charm, Warlord items, Radiant reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester items | [#1](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1) |
-| Built, not deployed | Remove Cloth Scrap, Sweeper's Broomstick, Bat Fang, Warlord slayer title, and everything Sadan | [#25](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/25) |
-| Built, not deployed | Mob renames: Ender Sentinel, Voidling Brute/Warden, Voidgloom Colossus, Crypt Zombie | [#2](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2) |
-| Built, not deployed | Zombie slayer line renamed Iron Brute | [#26](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26) |
-| Built, not deployed | Tier-5 zombie slayer boss renamed Iron Brute Overlord |  |
-| Built, not deployed | Tier-5 minibosses renamed Iron Brute Enforcer and Iron Brute Champion |  |
-| Built, not deployed | Slayer drop renamed Brute Trophy (existing items carry over) |  |
+| Done | Summoning Eye → Ender Catalyst, internal ID renamed with legacy ID alias |  |
+| Done | RNG Meter rename |  |
+| Done | Titan's armor, blade and heads rename |  |
+| Done | Item removals: Mega Luck Charm, Warlord items, Radiant reforge, Lucky Dice, Rag Doll, Herbalist/Bat masks, Lifeline Bow, Harvester items | [#1](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1) |
+| Done | Remove Cloth Scrap, Sweeper's Broomstick, Bat Fang, Warlord slayer title, and everything Sadan | [#25](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/25) |
+| Done | Mob renames: Ender Sentinel, Voidling Brute/Warden, Voidgloom Colossus, Crypt Zombie | [#2](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2) |
+| Done | Zombie slayer line renamed Iron Brute | [#26](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/26) |
+| Done | Tier-5 zombie slayer boss renamed Iron Brute Overlord |  |
+| Done | Tier-5 minibosses renamed Iron Brute Enforcer and Iron Brute Champion |  |
+| Done | Slayer drop renamed Brute Trophy (existing items carry over) |  |
 
 ## Part 2: Less grind
 
 | Status | Item | Issue |
 |---|---|---|
 | Done | 64 per enchanted recipe everywhere (219 recipes + compactor verified) |  |
-| Built, not deployed | Bug: Enchanted Lava Bucket recipe outputs Enchanted Iron | [#4](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/4) |
-| Built, not deployed | Bug: Enchanted Charcoal made from Coal | [#5](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/5) |
-| Built, not deployed | Bug: Enchanted Fermented Spider Eye / Eye of Ender single-ingredient recipes | [#6](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/6) |
-| Built, not deployed | Bug: Super Compactor Enchanted Bone Block typo | [#7](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/7) |
-| Built, not deployed | Bug: compactor uses 64 blocks (576 diamonds) per enchanted item | [#8](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/8) |
-| Built, not deployed | Bug: 48 enchanted items have no crafting recipe | [#9](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/9) |
-| Built, not deployed | Bug: pet XP table skips levels 28/53/78 | [#11](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/11) |
-| Built, not deployed | Enchanted Ender Pearl now 16 (recipe + compactor) | [#10](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/10) |
-| Built, not deployed | Rescale enchanted NPC sell prices (input-based, never above bazaar sell) | [#12](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/12) |
+| Done | Bug: Enchanted Lava Bucket recipe outputs Enchanted Iron | [#4](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/4) |
+| Done | Bug: Enchanted Charcoal made from Coal | [#5](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/5) |
+| Done | Bug: Enchanted Fermented Spider Eye / Eye of Ender single-ingredient recipes | [#6](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/6) |
+| Done | Bug: Super Compactor Enchanted Bone Block typo | [#7](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/7) |
+| Done | Bug: compactor uses 64 blocks (576 diamonds) per enchanted item | [#8](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/8) |
+| Done | Bug: 48 enchanted items have no crafting recipe | [#9](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/9) |
+| Done | Bug: pet XP table skips levels 28/53/78 | [#11](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/11) |
+| Done | Enchanted Ender Pearl now 16 (recipe + compactor) | [#10](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/10) |
+| Done | Rescale enchanted NPC sell prices (input-based, never above bazaar sell) | [#12](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/12) |
 | To do | Skill XP curve L16+: halve L16-30, ~1/3 for L31-60, keep 1.25x | [#13](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/13) |
 | To do | Halve outlier collections (Redstone, Gemstone, Mithril, Hard Stone, Iron, Ghast Tear) | [#14](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/14) |
 | To do | Halve slayer start costs | [#15](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/15) |
@@ -45,9 +45,9 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 
 | Status | Item | Issue |
 |---|---|---|
-| Built, not deployed | Economy: Hypixel base-item prices, weekly snapshot, buy/sell spread; checker PASS, zero profit loops | [#27](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27) |
-| Built, not deployed | Dandelion and Poppy priced at 5 coins |  |
-| Built, not deployed | Hypixel price sync verified working without an API key |  |
+| Done | Economy: Hypixel base-item prices, weekly snapshot, buy/sell spread; checker PASS, zero profit loops | [#27](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/27) |
+| Done | Dandelion and Poppy priced at 5 coins |  |
+| Done | Hypixel price sync working without an API key (live snapshot fetched on deploy) |  |
 | Brainstorming | Fairy Souls redesign (174 souls now, 5 per Tia exchange) | [#28](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/28) |
 
 ## Part 4: Wiki
@@ -64,7 +64,7 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 
 | Status | Item | Issue |
 |---|---|---|
-| To do | Back up live jar, Cole's OK + restart window, deploy to hub + island | [#23](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/23) |
+| Done | Deployed to hub + island (Nov 1, economy3 build; live jars backed up first) | [#23](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/23) |
 
 ## Security
 
