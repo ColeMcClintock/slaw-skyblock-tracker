@@ -12,7 +12,7 @@ Statuses: Done / In progress / Built, not deployed / Waiting on Cole / To do. So
 | Built, not deployed | Summoning Eye → Ender Catalyst, internal ID renamed with legacy ID alias so existing items keep working |  |
 | Built, not deployed | RNGesus / "God" references removed (e.g. RNGesus Meter → RNG Meter) |  |
 | Built, not deployed | Necron armor/blade/heads → Titan's |  |
-| In progress | Remove completely: Mega Luck Charm (ex Arenjey God), Warlord (ex Necromancer) items, Radiant (ex Necrotic) reforge, Lucky Dice (ex Sinful Dice), Rag Doll (ex Voodoo Doll), Herbalist/Bat masks (ex Witch masks), Lifeline Bow (ex Soulstealer Bow), Harvester (ex Reaper) items | [#1](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1) |
+| Built, not deployed | Remove completely: Mega Luck Charm (ex Arenjey God), Warlord (ex Necromancer) items, Radiant (ex Necrotic) reforge, Lucky Dice (ex Sinful Dice), Rag Doll (ex Voodoo Doll), Herbalist/Bat masks (ex Witch masks), Lifeline Bow (ex Soulstealer Bow), Harvester (ex Reaper) items | [#1](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/1) |
 | Waiting on Cole | Mob/boss display renames: Zealot → Ender Sentinel, Voidgloom Seraph → Voidgloom Colossus, Ghoul/Golden Ghoul → Crypt/Golden Zombie, Voidling Fanatic/Extremist → Brute/Warden, Revenant line (display only; internal keys kept for bestiary/XP) | [#2](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/2) |
 | Waiting on Cole | Borderline list review (vanilla undead, Spirit/Soul/Ghost, Death/Shadow/Dark wording, Blood items, dungeon boss names, skulls, internal class IDs) | [#3](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/3) |
 
