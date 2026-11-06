@@ -37,7 +37,7 @@ Statuses: Done / Built, not deployed / In progress / Waiting on Cole / Brainstor
 | Done | Rescale enchanted NPC sell prices (input-based, never above bazaar sell) | [#12](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/12) |
 | To do | Skill XP curve L16+: halve L16-30, ~1/3 for L31-60, keep 1.25x | [#13](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/13) |
 | To do | Halve outlier collections (Redstone, Gemstone, Mithril, Hard Stone, Iron, Ghast Tear) | [#14](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/14) |
-| To do | Halve slayer start costs | [#15](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/15) |
+| Built, not deployed | Slayer costs halved | [#15](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/15) |
 | To do | Minions ~30% faster | [#16](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/16) |
 | To do | Review reforge costs, NPC buy prices, Kat | [#17](https://github.com/ColeMcClintock/slaw-skyblock-tracker/issues/17) |
 
